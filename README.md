@@ -13,6 +13,7 @@ teammates only when they re-run `apm install`.
 |---|---|
 | `cluster-health` | Read-only health sweep of the current Kubernetes cluster |
 | `service-connectivity-triage` | Diagnose a Service that's dark while its pods are green — endpoints, selector mismatches, DNS red herrings |
+| `maintaining-core-documentation` | Creates, maintains, and synchronises core project documentation (README, TODO, DESIGN, Architecture, Testing, Deployment) |
 
 ## Contributing
 
